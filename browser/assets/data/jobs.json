@@ -1,0 +1,196 @@
+[
+    {
+        "id": 1,
+        "title": "Senior Angular Developer",
+        "company": "Smart Axiata",
+        "location": "Phnom Penh",
+        "salary": "$2,500 - $4,500",
+        "category": "IT",
+        "jobType": "Full time",
+        "description": "Lead enterprise Angular 18+ projects with standalone components.",
+        "requirements": [
+            "5+ years Angular",
+            "TypeScript expert",
+            "RxJS",
+            "Clean architecture"
+        ],
+        "postedAt": "2 days ago"
+    },
+    {
+        "id": 2,
+        "title": "Digital Marketing Manager",
+        "company": "Wing Bank",
+        "location": "Phnom Penh",
+        "salary": "$1,800 - $3,200",
+        "category": "Marketing",
+        "jobType": "Full time",
+        "description": "Run high-ROI campaigns across Google, Facebook, TikTok.",
+        "requirements": [
+            "4+ years experience",
+            "Data analytics",
+            "English & Khmer fluency"
+        ],
+        "postedAt": "3 days ago"
+    },
+    {
+        "id": 3,
+        "title": "UI/UX Designer",
+        "company": "ABA Bank",
+        "location": "Phnom Penh",
+        "salary": "$1,600 - $2,800",
+        "category": "Design",
+        "jobType": "Full time",
+        "description": "Design beautiful mobile banking apps used by millions.",
+        "requirements": [
+            "Figma expert",
+            "Strong portfolio",
+            "User research skills"
+        ],
+        "postedAt": "1 week ago"
+    },
+    {
+        "id": 4,
+        "title": "Full Stack Developer (Remote)",
+        "company": "KhmerDev",
+        "location": "Remote",
+        "salary": "$2,200 - $4,500",
+        "category": "IT",
+        "jobType": "Remote",
+        "description": "Build SaaS products for international clients. Work from anywhere.",
+        "requirements": [
+            "Node.js + Angular",
+            "Docker",
+            "Git",
+            "Excellent communication"
+        ],
+        "postedAt": "Just now"
+    },
+    {
+        "id": 5,
+        "title": "English Teacher",
+        "company": "ACE Cambodia",
+        "location": "Siem Reap",
+        "salary": "$1,800 - $2,500",
+        "category": "Education",
+        "jobType": "Full time",
+        "description": "Teach IELTS and General English to motivated adult learners.",
+        "requirements": [
+            "CELTA/TESOL",
+            "Native-level English",
+            "Teaching passion"
+        ],
+        "postedAt": "4 days ago"
+    },
+    {
+        "id": 6,
+        "title": "Customer Service Officer",
+        "company": "Cellcard",
+        "location": "Phnom Penh",
+        "salary": "$600 - $1,200",
+        "category": "Customer Service",
+        "jobType": "Full time",
+        "description": "Support customers via phone, chat, and email.",
+        "requirements": [
+            "Good English",
+            "Patient",
+            "Shift work available"
+        ],
+        "postedAt": "5 days ago"
+    },
+    {
+        "id": 7,
+        "title": "Finance Manager",
+        "company": "Prudential Cambodia",
+        "location": "Phnom Penh",
+        "salary": "$3,000 - $5,000",
+        "category": "Finance",
+        "jobType": "Full time",
+        "description": "Oversee financial reporting and compliance.",
+        "requirements": [
+            "CPA/ACCA",
+            "10+ years experience",
+            "Leadership"
+        ],
+        "postedAt": "1 week ago"
+    },
+    {
+        "id": 8,
+        "title": "Graphic Designer (Part-time)",
+        "company": "Sabay Digital",
+        "location": "Phnom Penh",
+        "salary": "$800 - $1,500",
+        "category": "Design",
+        "jobType": "Part time",
+        "description": "Create social media visuals and marketing materials.",
+        "requirements": [
+            "Adobe Suite expert",
+            "Fast turnaround",
+            "Creative"
+        ],
+        "postedAt": "2 weeks ago"
+    },
+    {
+        "id": 9,
+        "title": "Project Manager",
+        "company": "WorldBridge Group",
+        "location": "Phnom Penh",
+        "salary": "$2,500 - $4,000",
+        "category": "Management",
+        "jobType": "Full time",
+        "description": "Manage construction and real estate projects.",
+        "requirements": [
+            "PMP preferred",
+            "Khmer/English/Chinese",
+            "Negotiation"
+        ],
+        "postedAt": "1 week ago"
+    },
+    {
+        "id": 10,
+        "title": "HR Officer",
+        "company": "Nagaworld",
+        "location": "Phnom Penh",
+        "salary": "$900 - $1,800",
+        "category": "HR",
+        "jobType": "Full time",
+        "description": "Recruitment, payroll, and employee relations.",
+        "requirements": [
+            "HR degree",
+            "3+ years experience",
+            "Attention to detail"
+        ],
+        "postedAt": "6 days ago"
+    },
+    {
+        "id": 11,
+        "title": "Sales Executive",
+        "company": "Toyota Cambodia",
+        "location": "Phnom Penh",
+        "salary": "$800 - $3,000 + commission",
+        "category": "Sales",
+        "jobType": "Full time",
+        "description": "Sell new Toyota vehicles with high earning potential.",
+        "requirements": [
+            "Sales personality",
+            "Driving license",
+            "Target-driven"
+        ],
+        "postedAt": "1 week ago"
+    },
+    {
+        "id": 12,
+        "title": "Content Creator",
+        "company": "Fresh News",
+        "location": "Phnom Penh",
+        "salary": "$700 - $1,500",
+        "category": "Marketing",
+        "jobType": "Full time",
+        "description": "Write articles and create viral social media content.",
+        "requirements": [
+            "Strong writing skills",
+            "Social media savvy",
+            "Fast & accurate"
+        ],
+        "postedAt": "3 days ago"
+    }
+]
